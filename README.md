@@ -27,7 +27,7 @@ Rockfall is a 3D space survival game built in Unity. Players pilot a ship to pro
 
 
 ## Video Demo
-- **Video:** *https://www.youtube.com/watch?v=IhacOQfLj3E(https://www.youtube.com/watch?v=IhacOQfLj3E)*  
+- **Video:** *https://www.youtube.com/watch?v=IhacOQfLj3E*  
 
 ## Group Members & Contribution Summary
 - **Jan Ellisson Sebastian**  - Game Developer
